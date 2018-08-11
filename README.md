@@ -1,2 +1,3 @@
 # hello-world
-my first program in Git
+# my first program in Git
+print ("hello world")
